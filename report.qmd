@@ -1,0 +1,54 @@
+---
+title: "RMDL Assessment 2: Data Analysis Report"
+authors:
+  - name: YOUR EXAM NUMBER
+bibliography: references.bib
+execute: 
+  echo: true
+---
+
+## Background
+
+- *Instructions are given in italics. You should remove all instructions before submitting*.
+
+- *You MUST include all code and code output in this report. This is a data analysis report, not an essay or journal article.*
+
+*Write a brief literature background for your Stroop task study. Explicitly state your Research Questions and, if available, your Research Hypotheses.*
+
+### Research Questions/Hypotheses
+
+## Methods
+
+*Briefly report the methods of the study (participants, materials, procedure, statistical analysis...). Note that when discussing the statistical analysis you should clearly state how the analysis results will be used to assess the RQs/RHs (be as specific and precise as you can). Include an Open Research/Data availability statement.*
+
+## Data
+
+*Remember to include all code and code output in the submission.*
+
+### Read and process the data
+
+*Read the data here. If the data needs processing, like mutating columns or creating new ones, briefly explain why processing is needed and what you did*. *Include a description of each of the relevant columns in the data.*
+
+```{r}
+#| label: read-data
+
+# Example code: delete
+1 + 1
+
+```
+
+### Plot the data
+
+*Create relevant plots: for each, include a description of the plot (type, axes, colours used and so on) and a description of relevant patterns.*
+
+### Summarise the data
+
+*Calculate and report appropriate summary measures for relevant variables in the data.*
+
+## Regression modelling
+
+*Write an explanation of the regression model(s) you will run to answer the chosen research question. Fit the model and get a model summary and relevant model plots. Report the results of the model.*
+
+## Discussion
+
+*Write a brief discussion of the your model results in light of the research question.*
