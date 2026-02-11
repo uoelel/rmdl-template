@@ -14,3 +14,4 @@ Otherwise:
 
 -   For the submission, **render to PDF and change the name of the file to your exam number.**
 
+- **We will test that your code runs without errors and that your results are fully reproducible**. You can choose how to share and where to host the study repository. Whatever method you choose, make sure the link to the repository is included in your report.
